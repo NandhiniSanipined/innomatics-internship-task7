@@ -1,0 +1,11 @@
+.con{
+  height: 800px;
+  width: 1500px;
+  background-color:white;
+} 
+.menu ul li {
+  Margin-right:20px;
+}
+.menu ul li i {
+  margin-right: 10px
+}
